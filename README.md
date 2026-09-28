@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Can Öztel</h1>
+<p align="center">Web &amp; automation developer · <a href="https://canoztel.com"><b>canoztel.com</b></a></p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://canoztel.com" target="blank">🌐 canoztel.com</a> &nbsp;·&nbsp; <a href="https://medium.com/@canoztll" target="blank">Medium</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/can-%C3%B6ztel-60b821233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="can öztel" height="30" width="40" /></a>
 </p>
 
