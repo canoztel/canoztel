@@ -1,18 +1,53 @@
-<h1 align="center">Hi 👋, I'm Can Öztel</h1>
-<p align="center">Web &amp; automation developer · <a href="https://canoztel.com"><b>canoztel.com</b></a></p>
+<a href="https://canoztel.com">
+  <img src="assets/banner.png" alt="Can Öztel — canoztel.com" width="100%" />
+</a>
 
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://canoztel.com" target="blank">🌐 canoztel.com</a> &nbsp;·&nbsp; <a href="https://medium.com/@canoztll" target="blank">Medium</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/can-%C3%B6ztel-60b821233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="can öztel" height="30" width="40" /></a>
+### Hi, I'm Can 👋
+
+I'm a computer engineer building **websites, digital experiences and automation systems** for brands — from visual language to code, from launch to automation. Co-founder of **Gönder Gelsin**.
+
+🌐 **[canoztel.com](https://canoztel.com)** &nbsp;·&nbsp; ✉️ [merhaba@canoztel.com](mailto:merhaba@canoztel.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/can-%C3%B6ztel-60b821233/) &nbsp;·&nbsp; ✍️ [Medium](https://medium.com/@canoztll)
+
+---
+
+### 🚀 Live work
+
+| Project | What | Stack |
+| --- | --- | --- |
+| **[Meriç Grup](https://canoztel.com/en/projects/meric-grup/)** · [↗ site](https://mericgrup.com) | Corporate site with its own admin CMS | Next.js 15 · React 19 · Prisma · Neon Postgres · Cloudflare |
+| **[Tarantella Pizza](https://canoztel.com/en/projects/tarantella-pizza/)** · [↗ site](https://pizzatarantella.com) | SEO-first website for a Neapolitan pizzeria | Astro · TypeScript · Schema.org · Cloudflare |
+| **[Challenge Club Istanbul](https://canoztel.com/en/projects/challenge-club-istanbul/)** · [↗ site](https://challengeclubistanbul.com) | Local-SEO single-page club site | Next.js · TypeScript · Tailwind CSS |
+| **[Semerkand](https://canoztel.com/en/projects/semerkand-abonelik/)** · [↗ site](https://avrupa.semerkanddijital.com.tr) | Web-based subscription platform with payments & rep panel | ASP.NET Core · EF Core · MySQL · Stripe · PayPal |
+
+### 🛠️ In progress
+
+- **[SeoRest](https://canoztel.com/en/projects/seorest/)** — multi-tenant, self-hosted n8n automation platform (infra as code, zero open ports)
+- **[Liminal.ai](https://github.com/canoztel/liminal-ai)** — a local-first “behavior mirror” with an AI coach
+- **[Film Bulucu](https://github.com/MTB-Projects/film-bulucu)** — find a film by describing a scene (semantic search)
+- **[Acil Kan](https://canoztel.com/en/projects/acil-kan/)** — connecting patients in need of blood with donors (Flutter)
+
+→ All projects: **[canoztel.com/en/projects](https://canoztel.com/en/projects/)**
+
+---
+
+### 🧰 Tools I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=astro,nextjs,react,ts,js,tailwind,html,css&perline=8" alt="Web" /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,python,prisma,postgres,mysql,redis&perline=8" alt="Backend" /><br />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,docker,cloudflare,githubactions,unity,blender&perline=8" alt="Mobile, infra & 3D" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### ✍️ Latest writing <sub>(Turkish · Medium)</sub>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canoztel&show_icons=true&locale=en&layout=compact" alt="canoztel" /></p>
+- [Google Maps, GEO SEO ve Yapay Zekâ Çağı: Artık Sadece Google’da Çıkmak Yetmiyor](https://medium.com/@canoztll/google-maps-geo-seo-ve-yapay-zek%C3%A2-%C3%A7a%C4%9F%C4%B1-art%C4%B1k-sadece-googleda-%C3%A7%C4%B1kmak-yetmiyor-3fc5446b6ba1)
+- [Üretken Yapay Zeka: Geleceği Şekillendiren Teknoloji](https://medium.com/@canoztll/%C3%BCretken-yapay-zeka-gelece%C4%9Fi-%C5%9Fekillendiren-teknoloji-cddd69fd75b5)
+- [Yapay Zekâ ve İnsanlık: Bir Dönüşüm Yolculuğu](https://medium.com/@canoztll/yapay-zek%C3%A2-ve-i%CC%87nsanl%C4%B1k-bir-d%C3%B6n%C3%BC%C5%9F%C3%BCm-yolculu%C4%9Fu-0b455279e788)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canoztel&show_icons=true&locale=en" alt="canoztel" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canoztel&" alt="canoztel" /></p>
+<p align="center">
+  <sub>Got a website, automation or product idea? <a href="https://canoztel.com/en/contact/"><b>Let’s talk →</b></a></sub>
+</p>
